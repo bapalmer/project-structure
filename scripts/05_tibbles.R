@@ -1,9 +1,9 @@
 #########################################################################
 # 3-day R workshop 
 # Day 3 pm - Project structure
-# Part A
+# Part C
 # 4th November 2018
-# 01_tibbles.R
+# 05_tibbles.R
 #########################################################################
 # Load the tidyverse
 library(tidyverse)

@@ -1,9 +1,9 @@
 #########################################################################
 # 3-day R workshop 
 # Day 3 pm - Project structure
-# Part E
+# Part B
 # 4th November 2018
-# 11_clean_data.R
+# 03_project_clean_data.R
 #########################################################################
 # Load the required packages
 # library(tidyverse)

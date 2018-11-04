@@ -1,9 +1,9 @@
 #########################################################################
 # 3-day R workshop 
 # Day 3 pm - Project structure
-# Part A
+# Part C
 # 4th November 2018
-# 03_tidyr.R
+# 07_tidyr.R
 #########################################################################
 # tidyr is loaded when the tidyverse package is called
 # library(tidyverse)

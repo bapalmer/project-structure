@@ -1,9 +1,9 @@
 #########################################################################
 # 3-day R workshop 
 # Day 3 pm - Project structure
-# Part A
+# Part C
 # 4th November 2018
-# 02_readr.R
+# 06_readr.R
 #########################################################################
 # You can load the core tidyverse packages using library(tidyverse)
 # But you can also load each package individually just like any other package

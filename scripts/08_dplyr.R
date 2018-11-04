@@ -1,9 +1,9 @@
 #########################################################################
 # 3-day R workshop 
 # Day 3 pm - Project structure
-# Part B
+# Part D
 # 4th November 2018
-# 04_dplyr.R
+# 08_dplyr.R
 #########################################################################
 # dplyr is loaded when the tidyverse package is called
 # library(tidyverse)

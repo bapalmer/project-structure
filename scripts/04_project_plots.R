@@ -1,12 +1,12 @@
 #########################################################################
 # 3-day R workshop 
 # Day 3 pm - Project structure
-# Part E
+# Part B
 # 4th November 2018
-# 12_plots.R
+# 04_project_plots.R
 #########################################################################
 # Read in the clean WHO TB data
-source("scripts/11_clean_data.R")
+source("scripts/03_project_clean_data.R")
 
 # Irish data preliminary plot ----
 # Pick any question you'd like to ask of the data

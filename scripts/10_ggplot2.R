@@ -1,9 +1,9 @@
 #########################################################################
 # 3-day R workshop 
 # Day 3 pm - Project structure
-# Part C
+# Part E
 # 4th November 2018
-# 07_ggplot2.R
+# 10_ggplot2.R
 #########################################################################
 # ggplot2 is loaded when the tidyverse package is called
 # library(tidyverse)

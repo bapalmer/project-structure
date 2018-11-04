@@ -1,9 +1,9 @@
 #########################################################################
 # 3-day R workshop 
 # Day 3 pm - Project structure
-# Part B
+# Part D
 # 4th November 2018
-# 05_practise.R
+# 09_data_cleaning_practise.R
 #########################################################################
 # Lets take what we've seen and apply it to a messy data set
 # library(tidyverse)

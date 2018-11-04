@@ -1,9 +1,9 @@
 #########################################################################
 # 3-day R workshop 
 # Day 3 pm - Project structure
-# Part D
+# Part B
 # 4th November 2018
-# 10_good_habits.R
+# 02_good_habits.R
 #########################################################################
 # 1. This file is already machine readable, but it needs to be human readable too
 # Will you remember what you did in 6 months time?

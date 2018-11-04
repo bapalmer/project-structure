@@ -1,9 +1,9 @@
 #########################################################################
 # 3-day R workshop 
 # Day 3 pm - Project structure
-# Part D
+# Part A
 # 4th November 2018
-# 09_too_much_choice.R
+# 01_too_much_choice.R
 #########################################################################
 # There are many, many ways to do the same thing in R
 # Run the code below for some examples

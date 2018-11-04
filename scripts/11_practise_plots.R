@@ -1,9 +1,9 @@
 #########################################################################
 # 3-day R workshop 
 # Day 3 pm - Project structure
-# Part C
+# Part E
 # 4th November 2018
-# 08_practise_plots.R
+# 11_practise_plots.R
 #########################################################################
 # Have a go at generating some plots
 # library(tidyverse)
