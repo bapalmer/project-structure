@@ -1,0 +1,26 @@
+[0m[0K]0;:/c/Users/bpalmer/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m[0K
+(master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m[0K
+(master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hS[0K[?25l$ git commit -m "[0K[?25hC[0Kh[0Ka[0Kn[0Kg[0Ke[0Kd[0K[26G[?25l$ git commit -m "Changed t[0K[?25hh[0Ke[0K[30G[?25l$ git commit -m "Changed the w[0K[?25ho[0Kr[0Kk[0Ks[0Kh[0Ko[0Kp[0K[39G[?25l$ git commit -m "Changed the workshop o[0K[?25hr[0Kd[0Ke[0Kr[0K"[0K[?25l
+[0K[?25h[master daa7e37] Changed the workshop order[0K[?25l
+ 13 files changed, 28 insertions(+), 28 deletions(-)[0K
+ rename scripts/{08_too_much_choice.R => 01_too_much_choice.R} (95%)[0K
+ rename scripts/{09_good_habits.R => 02_good_habits.R} (98%)[0K
+ rename scripts/{10_project_clean_data.R => 03_project_clean_data.R} (97%)[0K
+ rename scripts/{11_project_plots.R => 04_project_plots.R} (97%)[0K
+ rename scripts/{01_tibbles.R => 05_tibbles.R} (98%)[0K
+ rename scripts/{02_readr.R => 06_readr.R} (95%)[0K
+ rename scripts/{03_tidyr.R => 07_tidyr.R} (99%)[0K
+ rename scripts/{04_dplyr.R => 08_dplyr.R} (99%)[0K
+ rename scripts/{05_practise.R => 09_data_cleaning_practise.R} (96%)[0K
+ rename scripts/{06_ggplot2.R => 10_ggplot2.R} (99%)[0K
+ rename scripts/{07_practise_plots.R => 11_practise_plots.R} (97%)[0K
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m[0K
+(master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[?25l$ git pus[0K[?25h[?25l$ git pu[0K[?25h[?25l$ git p[0K[?25h[?25l$ git[0K[7G[?25h[6G[?25l$ gi[0K[?25h[?25l$ g[0K[5G[?25h[4G[?25l$[0K[3G[?25h[?25l$ git commit -m "Changed the workshop order"[0K[?25h[?25l$ git add -A[0K[?25h[?25l$ cd Documents/R_Users_Workshop/T_L_workshop/reproducible-workflows[0K[?25h[?25l$ git add -A[0K[?25h[?25l
+[0K[?25h
