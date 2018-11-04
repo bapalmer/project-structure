@@ -20,7 +20,7 @@ messy_data <- read_csv("data/brauer_data.csv") %>%
   select(GID, NAME, G0.05, G0.1, G0.15, G0.2, G0.25, G0.3)
 
 # Or this.......
-messy_data <- read_csv("morning_session/data/brauer_data.csv") %>%
+messy_data <- read_csv("data/brauer_data.csv") %>%
   
   select(GID, NAME, G0.05:G0.3)
 
@@ -115,7 +115,7 @@ leu1_gp %>%
 # 10. If you need to remove the grouping.....
 leu_ungp <- ungroup(leu1_gp)
 
-rm(leu1, leu_ungp, leu1, leu1_gp)
+rm(leu1, leu_ungp, leu1_gp)
 
 # 11. Other useful dplyr functions:
 # arrange()

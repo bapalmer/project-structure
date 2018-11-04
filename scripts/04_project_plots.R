@@ -88,6 +88,6 @@ who_ire_final <- who_tb_data %>%
 
 # Once the analysis is complete, you might want to capture your environment
 # It can be recreated anytime you run this script
-  writeLines(capture.output(sessionInfo()), 
-           paste("docs/",Sys.Date(),"_end_of_project_session_info.txt",
-                 sep = ""))
+# writeLines(capture.output(sessionInfo()), 
+#          paste("docs/",Sys.Date(),"_end_of_project_session_info.txt",
+#                sep = ""))

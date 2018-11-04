@@ -6,7 +6,7 @@
 # 05_tibbles.R
 #########################################################################
 # Load the tidyverse
-library(tidyverse)
+# library(tidyverse)
 
 # 1. Let's examine the main differences between a data frame and a tibble
 # Let's download a data set that we'll take with us through the day

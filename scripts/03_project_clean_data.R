@@ -32,7 +32,10 @@ who_tb_data <- read_csv("data/raw_data/who_tb_data.csv",
   
   mutate(total = m + f)
 
+#Section 2: Save the cleaned data ----
+# This is commented out
+# I only use this when I need to keep a record of what I've done
 # write_csv(who_tb_data,
-#           paste("afternoon_session/data/",Sys.Date(),"_clean_who_tb_data.csv",
+#           paste("data/",Sys.Date(),"_clean_who_tb_data.csv",
 #                 sep=""))
-# This is commented out, but if it is used, the date stamp is too
+
