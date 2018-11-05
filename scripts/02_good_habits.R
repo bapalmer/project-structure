@@ -131,7 +131,7 @@ clean_data <- read_csv("path to my data table.csv") %>%
 
 # 8. Finish up and write to file as a record if required
 # write_csv(clean_data, 
-#           paste("afternoon_session/data/",
+#           paste("data/",
 #                 Sys.Date(),
 #                 "_clean_data.csv",
 #                 sep=""))

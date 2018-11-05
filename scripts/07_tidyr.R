@@ -73,7 +73,7 @@ gathered_genes <- gather(separated_genes,
 # The column is conveying two pieces of information (e.g. G0.05)
 tidy_genes <- gathered_genes %>% 
   separate(sample,
-           c("nutrient", "growth_rate"),
+           c("nutrient", "concentration"),
            sep = 1) # i.e. we will split the observation after the first character
 
 # 5. Let's reverse our actions above
