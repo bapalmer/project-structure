@@ -1,0 +1,22 @@
+[0m[0K]0;:/c/Users/bpalmer/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[3G[?25h[4G[?25l$ cd[0K[?25h[6G[?25l$ cd d[0K[?25ho[0Kc[0Ks/[0K[?25l
+[0K[?25h]0;:/c/Users/bpalmer/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure/docs[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure/docs[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add 2[0K[?25h0[0K1[0K8[0K-11-04_tidyverse_plus_projects_equals_happiness.pdf[0K[67G[?25l
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure/docs[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m ([0K[?25h[?25l$ git commit -m[0K[17G[?25h[?25l$ git commit -m "[0K[?25hA[0Kd[0Kd[0Ke[0Kd[0K[24G[?25l$ git commit -m "Added n[0K[?25he[0Kw[0K[28G[?25l$ git commit -m "Added new s[0K[?25hl[0Ki[0Kd[0Ke[0K"[0K[?25l
+[0K[?25h[master 592414d] Added new slide[0K[?25l
+ 1 file changed, 0 insertions(+), 0 deletions(-)[0K
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure/docs[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[?25l
+[0K[?25hEnumerating objects: 7, done.[0K[?25l
+Counting objects: 100% (7/7), done.[0K
+Delta compression using up to 8 threads.[0K
+Compressing objects:  25% (1/4)[0K[1G[?25hTo https://github.com/bapalmer/project-structure.git[0K[?25l
+   d8f41f4..592414d  master -> master[0K
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure/docs[0;36m (master)[0m[0K
+$[0K[3G[?25h

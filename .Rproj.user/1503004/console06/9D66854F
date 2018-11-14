@@ -1,0 +1,36 @@
+[0m[0K]0;:/c/Users/bpalmer/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m[0K
+(master)[0m[0K
+$[0K[3G[?25h[?25l$ a[0K[?25hd[0Kd[0K[7G[6G[?25l$ ad[0K[6G[?25h[5G[?25l$ a[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25h[?25ld[0K[8G[?25h[9G[?25l$ git add[0K[?25h[11G[?25l$ git add /[0K[?25h[?25l
+LICENSE.txt        dev/               mingw64/           unins000.exe[0K
+[0K[?25hReleaseNotes.html  etc/               proc/              unins000.msg[0K[?25l
+bin/               git-bash.exe       tmp/               usr/[0K
+cmd/               git-cmd.exe        unins000.dat[0K
+[0K
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m[0K
+(master)[0m[0K
+$ git add /[0K[?25hd[0Ko[0Kc[0K[?25l$ git add /do[0K[?25h[?25l$ git add /d[0K[?25h[?25l$ git add /[0K[?25h[?25l$ git add[0K[11G[?25h[?25l$ git add d[0K[11G[?25h[12G[?25l$ git add do[0K[?25hc[0Ks[0K/[0K[?25l$ git add docs[0K[16G[?25h[15G[?25l
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m[0K
+(master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hC[0Ko[0Kr[0Kr[0Ke[0Kc[0Kt[0Ke[0Kd[0K[28G[?25l$ git commit -m "Corrected h[0K[?25hy[0Kp[0Ke[0Kr[0Kl[0Ki[0Kn[0Kk[0Ks[0K[39G[?25l$ git commit -m "Corrected hyperlinks i[0K[?25hn[0K[42G[?25l$ git commit -m "Corrected hyperlinks in p[0K[?25hr[0Ke[0Ks[0Ke[0Kn[0Kt[0Ka[0Kt[0Ki[0K[?25lo[0K[52G[?25h[53G[?25l$ git commit -m "Corrected hyperlinks in presentation[0K[?25h"[0K[?25l
+[0K[?25h[master 87e67b0] Corrected hyperlinks in presentation[0K[?25l
+ 2 files changed, 0 insertions(+), 0 deletions(-)[0K
+ delete mode 100644 docs/2018-11-03_project_structure.pdf[0K
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m[0K
+(master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[?25l
+[0K[?25hEnumerating objects: 7, done.[0K[?25l
+Counting objects: 100% (7/7), done.[0K
+Delta compression using up to 8 threads.[0K
+Compressing objects:  25% (1/4)[0K[1G[?25hCompressing objects: 100% (4/4), done.[0K[?25l
+Writing objects:  75% (3/4)[0K[1G[?25hWriting objects: 100% (4/4), 279.79 KiB | 3.22 MiB/s, done.[0K[?25l
+Total 4 (delta 3), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  66% (2/3)[0K[1G[?25hremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[0K[?25l
+[0K[?25hTo https://github.com/bapalmer/project-structure.git[0K[?25l
+   ebc99d5..87e67b0  master -> master[0K
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m[0K
+(master)[0m[0K
+$[0K[3G[?25h

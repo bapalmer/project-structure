@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541414201567.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "59036753",
+    "lastKnownWriteTime" : 6873730473276240993,
+    "last_content_update" : 1541414201567,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "DBD00441",
+        "caption" : "gathered_genes",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=gathered_genes&cache_key=DBD00441",
+        "displayedObservations" : 33222,
+        "environment" : "",
+        "object" : "gathered_genes",
+        "preview" : 0,
+        "totalObservations" : 33222,
+        "variables" : 8
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

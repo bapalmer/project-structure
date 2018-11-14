@@ -79,4 +79,62 @@ Total 51 (delta 5), reused 0 (delta 0)[0K
 [0K[?25h[?25l
 [0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m[0K
 (master)[0m[0K
+]0;:/c/Users/bpalmer/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add R[0K[?25hE[0KA[0KD[0KM[0KE[0K.md[0K[21G[?25l
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25h[16G[15G[?25l$ git commit -m[0K[?25h[17G[?25l$ git commit -m "[0K[?25hU[0Kp[0Kd[0Ka[0Kt[0Ke[0Kd[0K[26G[?25l$ git commit -m "Updated R[0K[?25hE[0KA[0KD[0KM[0KE[0K"[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/1503004/console06/A9847D6D[0m[0K
+        [0;31mmodified:   .Rproj.user/1503004/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/1503004/pcs/source-pane.pper[0m[0K
+[0K
+Untracked files:[0K
+        [0;31mdocs/data_science_with_R_workflow.pdf[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "Updated README"[0K[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/1503004/console06/A9847D6D[0m[0K
+        [0;31mmodified:   .Rproj.user/1503004/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/1503004/pcs/source-pane.pper[0m[0K
+        [0;31mmodified:   .Rproj.user/1503004/sources/prop/5307AB23[0m[0K
+        [0;31mmodified:   README.md[0m[0K
+[0K
+Untracked files:[0K
+        [0;31mdocs/data_science_with_R_workflow.pdf[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "Updated README"[0K[?25h[?25l$ git add README.md[0K[21G[?25h[?25l
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add README.md[0K[21G[?25h[?25l$ git commit -m "Updated README"[0K[?25h[?25l
+[0K[?25h[master 22f92f6] Updated README[0K[?25l
+ 1 file changed, 26 insertions(+), 17 deletions(-)[0K
+ rewrite README.md (62%)[0K
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[?25l
+[0K[?25hEnumerating objects: 5, done.[0K[?25l
+Counting objects: 100% (5/5), done.[0K
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (3/3), done.[0K
+Writing objects: 100% (3/3), 617 bytes | 617.00 KiB/s, done.[0K
+Total 3 (delta 2), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[0K[?25l
+[0K[?25hTo https://github.com/bapalmer/project-structure.git[0K[?25l
+   c07c5fc..22f92f6  master -> master[0K
+[0K[?25h[?25l
+[0;32mbpalmer@ph-wgb5 [0;35m [0;33m~/Documents/R_Users_Workshop/T_L_workshop/stats-teaching/project-structure[0;36m (master)[0m[0K
 $[0K[3G[?25h
